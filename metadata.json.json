@@ -1,0 +1,86 @@
+[
+  {
+    "id": "85413774-3c50-42c5-bec2-bcfa8838988d",
+    "department": "returns",
+    "source_file": "return_policy.pdf",
+    "chunk_number": 0,
+    "text": "Returns Policy Daraz Knowledge Base — Sample Reference Document This document contains sample e-commerce return rules for a Daraz-style knowledge base. Customers may request a return when an eligible product is damaged, defective, incorrect, or materially different from the listing. Return requests should be submitted within the allowed return period shown for the product. Items should normally be unused, with original packaging, accessories, tags, and proof of purchase where applicable. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "45387bae-a40c-4c67-869e-48fa9f4849a4",
+    "department": "returns",
+    "source_file": "return_process.pdf",
+    "chunk_number": 0,
+    "text": "Return Process Daraz Knowledge Base — Sample Reference Document Sample return workflow: open the order, select the relevant item, choose a valid return reason, provide the requested details or photos, submit the request, and follow the pickup or drop-off instructions. The returned item may be inspected before the request is approved. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "d7df003f-2fa0-4c30-afa4-da402c3f211e",
+    "department": "refunds",
+    "source_file": "refund_policy.pdf",
+    "chunk_number": 0,
+    "text": "Refund Policy Daraz Knowledge Base — Sample Reference Document Refunds are processed after an eligible cancellation, approved return, or other qualifying event. The refund method and processing time can depend on the original payment method and financial institution. Customers should retain transaction information until the refund is completed. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "aba938dc-b2f2-42a6-9a62-10adfd465d11",
+    "department": "refunds",
+    "source_file": "refund_status.pdf",
+    "chunk_number": 0,
+    "text": "Refund Status Daraz Knowledge Base — Sample Reference Document If a refund has been approved but is not yet visible, customers should check the order and payment status first. Bank or payment-provider processing can require additional business time. For unresolved cases, customer support may request order and transaction details. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "5e22ad92-11a6-477d-996b-d8ac19d1c825",
+    "department": "customer_support",
+    "source_file": "support_policy.pdf",
+    "chunk_number": 0,
+    "text": "Customer Support Policy Daraz Knowledge Base — Sample Reference Document Customer support helps with order, delivery, return, refund, payment, and account-related issues. When contacting support, customers should provide relevant order information and a clear description of the problem. Support responses may depend on the type of issue and required investigation. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "4f706308-842c-45bf-b6b9-4e306b99893c",
+    "department": "customer_support",
+    "source_file": "complaints_process.pdf",
+    "chunk_number": 0,
+    "text": "Complaints Process Daraz Knowledge Base — Sample Reference Document For a complaint, provide the order reference, affected product, problem description, and supporting evidence when requested. The case may be reviewed before a resolution is provided. Customers should avoid sharing unnecessary passwords or security credentials. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "0469d0e7-a7c3-4948-85b4-0ac799b1408d",
+    "department": "delivery",
+    "source_file": "delivery_tracking.pdf",
+    "chunk_number": 0,
+    "text": "Delivery Tracking Daraz Knowledge Base — Sample Reference Document Customers can track an order using the order details and tracking information provided by the platform or logistics partner. A tracking status may take some time to update after a parcel is handed to a courier. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "25de21fe-7ef1-4c7c-ba4c-f63e30ea99d2",
+    "department": "delivery",
+    "source_file": "delivery_policy.pdf",
+    "chunk_number": 0,
+    "text": "Delivery Policy Daraz Knowledge Base — Sample Reference Document Delivery time depends on the seller, product availability, destination, shipping method, and operational conditions. Estimated delivery dates are shown with the order when available. Customers should keep their phone number and address information accurate. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "719fbe24-a30b-4a82-a1f7-4b0fa80205e8",
+    "department": "payments",
+    "source_file": "cash_on_delivery.pdf",
+    "chunk_number": 0,
+    "text": "Cash on Delivery Daraz Knowledge Base — Sample Reference Document Where cash on delivery is available, the customer pays the required amount when the parcel is delivered. Availability can depend on the product, seller, destination, order value, or other platform conditions. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "2301dcf8-015a-47be-aab0-7f2b6e628c91",
+    "department": "payments",
+    "source_file": "payment_policy.pdf",
+    "chunk_number": 0,
+    "text": "Payment Policy Daraz Knowledge Base — Sample Reference Document Customers may use the payment methods displayed as available during checkout. Payment confirmation can depend on the payment provider. Customers should never share passwords, one-time passwords, or security codes with another person. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "8d3a6f72-3a08-4ee7-9a44-3375aa120879",
+    "department": "sellers",
+    "source_file": "seller_policy.pdf",
+    "chunk_number": 0,
+    "text": "Seller Policy Daraz Knowledge Base — Sample Reference Document Sellers are expected to provide accurate product information, genuine and safe products where required, correct pricing, appropriate packaging, and timely order handling. Sellers should follow marketplace rules and applicable laws. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  },
+  {
+    "id": "1452ea0c-e1ee-4e36-a9bd-5adbdf799b49",
+    "department": "sellers",
+    "source_file": "seller_listing_rules.pdf",
+    "chunk_number": 0,
+    "text": "Seller Listing Rules Daraz Knowledge Base — Sample Reference Document Product listings should contain clear titles, accurate descriptions, appropriate images, correct categories, and truthful specifications. Sellers should not publish misleading claims or prohibited items and should keep stock information updated. Note: This is dummy/sample knowledge-base content created for an AI assistant project. It is not an official Daraz policy document."
+  }
+]
