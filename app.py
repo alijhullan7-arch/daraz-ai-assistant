@@ -83,6 +83,9 @@ if faiss_index is None or not metadata:
         "Make sure `index.faiss` and `metadata.json` "
         "exist in the root of your repository (run ingest.py first)."
     )
+    with st.expander("Debug: files Streamlit can see"):
+        st.write("Current working directory:", os.getcwd())
+        st.write("Files here:", os.listdir("."))
     st.stop()
 
 if groq_client is None:
@@ -246,4 +249,3 @@ if question:
                     st.caption(c["text"][:300] + ("..." if len(c["text"]) > 300 else ""))
 
     st.session_state.messages.append({"role": "assistant", "content": answer})
-
