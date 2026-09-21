@@ -12,9 +12,8 @@ from groq import Groq
 # Configuration
 # -----------------------------
 
-INDEX_FOLDER = "faiss_index"
-INDEX_PATH = os.path.join(INDEX_FOLDER, "index.faiss")
-METADATA_PATH = os.path.join(INDEX_FOLDER, "metadata.json")
+INDEX_PATH = "index.faiss"
+METADATA_PATH = "metadata.json"
 
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 GROQ_MODEL_NAME = "openai/gpt-oss-120b"
@@ -81,8 +80,8 @@ groq_client = load_groq_client()
 if faiss_index is None or not metadata:
     st.error(
         "FAISS index or metadata not found. "
-        "Make sure `faiss_index/index.faiss` and `faiss_index/metadata.json` "
-        "exist in your repository (run ingest.py first)."
+        "Make sure `index.faiss` and `metadata.json` "
+        "exist in the root of your repository (run ingest.py first)."
     )
     st.stop()
 
@@ -247,3 +246,4 @@ if question:
                     st.caption(c["text"][:300] + ("..." if len(c["text"]) > 300 else ""))
 
     st.session_state.messages.append({"role": "assistant", "content": answer})
+
